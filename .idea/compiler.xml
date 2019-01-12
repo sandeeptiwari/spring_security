@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="com.securitydemo.securitydemo.main" target="1.8" />
       <module name="com.securitydemo.securitydemo.test" target="1.8" />
+      <module name="org.home.spring.mvc.securitydemo.main" target="1.8" />
+      <module name="org.home.spring.mvc.securitydemo.test" target="1.8" />
       <module name="securitydemo.main" target="1.8" />
       <module name="securitydemo.test" target="1.8" />
     </bytecodeTargetLevel>
